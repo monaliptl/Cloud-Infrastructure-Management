@@ -1,5 +1,3 @@
-# AWS-lab-Work
-
 
 ## Migration of VM to AWS
 Migrated a virtual machine to AWS EC2, configured the cloud environment and validated post-migration performance and connectivity.
